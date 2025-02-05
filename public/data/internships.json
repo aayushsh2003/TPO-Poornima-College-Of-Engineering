@@ -1,0 +1,34 @@
+{
+  "internships": [
+    {
+      "id": 1,
+      "title": "Software Development Intern",
+      "company": "InnovateX",
+      "location": "Remote",
+      "duration": "6 months",
+      "stipend": "$2000/month",
+      "description": "Join our engineering team and work on cutting-edge projects.",
+      "requirements": [
+        "Currently pursuing CS/IT degree",
+        "Knowledge of JavaScript",
+        "Basic understanding of web technologies"
+      ],
+      "applicationDeadline": "2024-02-28"
+    },
+    {
+      "id": 2,
+      "title": "Data Science Intern",
+      "company": "AI Solutions",
+      "location": "Hybrid",
+      "duration": "3 months",
+      "stipend": "$1800/month",
+      "description": "Work on real-world machine learning projects.",
+      "requirements": [
+        "Strong background in Mathematics",
+        "Python programming skills",
+        "Knowledge of ML fundamentals"
+      ],
+      "applicationDeadline": "2024-02-15"
+    }
+  ]
+}

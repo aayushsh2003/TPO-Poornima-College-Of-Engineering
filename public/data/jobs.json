@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "TCS",
+      "location": "Pan India",
+      "salary": "4.5-6.5 LPA",
+      "type": "Full-time",
+      "experience": "Fresher",
+      "description": "Looking for B.Tech graduates with strong programming fundamentals.",
+      "requirements": [
+        "B.Tech in CSE/IT/ECE",
+        "Minimum 60% throughout academics",
+        "Strong in Data Structures & Algorithms",
+        "Good communication skills"
+      ],
+      "skills": ["Java", "Python", "DSA", "DBMS"],
+      "postedDate": "2024-01-20"
+    },
+    {
+      "id": 2,
+      "title": "Associate Software Engineer",
+      "company": "Infosys",
+      "location": "Pan India",
+      "salary": "3.6-5.0 LPA",
+      "type": "Full-time",
+      "experience": "Fresher",
+      "description": "Hiring fresh graduates for various IT roles.",
+      "requirements": [
+        "B.Tech in any stream",
+        "Minimum 60% in 10th, 12th & graduation",
+        "No active backlogs",
+        "Basic programming knowledge"
+      ],
+      "skills": ["C++", "SQL", "Web Technologies"],
+      "postedDate": "2024-01-22"
+    },
+    {
+      "id": 3,
+      "title": "Graduate Engineer Trainee",
+      "company": "Tech Mahindra",
+      "location": "Pan India",
+      "salary": "4.0-5.5 LPA",
+      "type": "Full-time",
+      "experience": "Fresher",
+      "description": "Seeking talented graduates for software development roles.",
+      "requirements": [
+        "B.Tech in CSE/IT/ECE/EE",
+        "Minimum 65% throughout academics",
+        "Knowledge of programming languages",
+        "Analytical and problem-solving skills"
+      ],
+      "skills": ["Java", "JavaScript", "HTML/CSS", "SQL"],
+      "postedDate": "2024-01-25"
+    }
+  ]
+}

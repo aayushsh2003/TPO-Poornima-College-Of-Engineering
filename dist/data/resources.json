@@ -1,0 +1,106 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "category": "Placement Preparation",
+      "items": [
+        {
+          "title": "Technical Interview Guide",
+          "type": "Guide",
+          "description": "Comprehensive preparation for technical rounds",
+          "topics": [
+            "Coding Questions",
+            "Technical Concepts",
+            "Problem Solving",
+            "System Design Basics"
+          ],
+          "duration": "4 weeks",
+          "difficulty": "Intermediate",
+          "link": "#"
+        },
+        {
+          "title": "Aptitude Training",
+          "type": "Course",
+          "description": "Master quantitative and logical reasoning",
+          "topics": [
+            "Numerical Ability",
+            "Logical Reasoning",
+            "Verbal Ability",
+            "Data Interpretation"
+          ],
+          "duration": "6 weeks",
+          "difficulty": "Beginner",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Career Development",
+      "items": [
+        {
+          "title": "Resume Building Workshop",
+          "type": "Workshop",
+          "description": "Create an impressive technical resume",
+          "topics": [
+            "Resume Formats",
+            "Project Highlighting",
+            "Skills Presentation",
+            "ATS Optimization"
+          ],
+          "duration": "1 week",
+          "difficulty": "Beginner",
+          "link": "#"
+        },
+        {
+          "title": "Mock Interview Sessions",
+          "type": "Workshop",
+          "description": "Practice with industry experts",
+          "topics": [
+            "HR Rounds",
+            "Technical Rounds",
+            "Group Discussions",
+            "Case Studies"
+          ],
+          "duration": "2 weeks",
+          "difficulty": "Intermediate",
+          "link": "#"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Industry Knowledge",
+      "items": [
+        {
+          "title": "Industry Connect Sessions",
+          "type": "Video Series",
+          "description": "Learn from industry professionals",
+          "topics": [
+            "Technology Trends",
+            "Career Paths",
+            "Industry Insights",
+            "Success Stories"
+          ],
+          "duration": "Ongoing",
+          "difficulty": "All Levels",
+          "link": "#"
+        },
+        {
+          "title": "Company-Specific Preparation",
+          "type": "Documentation",
+          "description": "Targeted preparation guides",
+          "topics": [
+            "Company Profiles",
+            "Selection Process",
+            "Expected Questions",
+            "Past Experiences"
+          ],
+          "duration": "Variable",
+          "difficulty": "Intermediate",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

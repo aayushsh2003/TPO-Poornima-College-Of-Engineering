@@ -1,0 +1,67 @@
+{
+  "hackathons": [
+    {
+      "id": 1,
+      "title": "Technical Training Program",
+      "organizer": "Poornima Training Cell",
+      "startDate": "2024-03-15",
+      "endDate": "2024-04-15",
+      "prize": "Certification",
+      "participants": "200+",
+      "description": "Comprehensive training program covering core technical skills.",
+      "requirements": [
+        "Open to all B.Tech students",
+        "Laptop required",
+        "Regular attendance mandatory"
+      ],
+      "themes": [
+        "Data Structures",
+        "Web Development",
+        "Database Management"
+      ],
+      "registrationUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Soft Skills Development",
+      "organizer": "Poornima Placement Cell",
+      "startDate": "2024-04-01",
+      "endDate": "2024-04-30",
+      "prize": "Certification",
+      "participants": "150+",
+      "description": "Enhance your communication and interview skills.",
+      "requirements": [
+        "Final year students",
+        "Group activities participation",
+        "Mock interview attendance"
+      ],
+      "themes": [
+        "Communication Skills",
+        "Interview Preparation",
+        "Group Discussions"
+      ],
+      "registrationUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Industry Ready Program",
+      "organizer": "Poornima-IBM Collaboration",
+      "startDate": "2024-05-10",
+      "endDate": "2024-06-10",
+      "prize": "IBM Certification",
+      "participants": "100+",
+      "description": "Advanced training program in collaboration with IBM.",
+      "requirements": [
+        "Pre-final year students",
+        "Basic programming knowledge",
+        "Project work mandatory"
+      ],
+      "themes": [
+        "Cloud Computing",
+        "AI/ML Basics",
+        "Enterprise Software"
+      ],
+      "registrationUrl": "#"
+    }
+  ]
+}
